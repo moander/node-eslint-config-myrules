@@ -1,6 +1,6 @@
 {
 	"name": "eslint-config-myrules",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"description": "eslint shareable configuration package example",
 	"main": "lib/index.js",
 	"engines": {
