@@ -1,0 +1,34 @@
+{
+	"name": "eslint-config-myrules",
+	"version": "0.1.0",
+	"description": "eslint shareable configuration package example",
+	"main": "lib/index.js",
+	"engines": {
+		"node": ">=4.1.0"
+	},
+	"engineStrict": true,
+	"eslintConfig": {
+		"root": true,
+		"extends": "eslint:recommended",
+		"env": {
+			"es6": true,
+			"node": true
+		}
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Morten Andersen",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/moander/node-eslint-config-myrules.git"
+	},
+	"bugs": {
+		"url": "https://github.com/moander/node-eslint-config-myrules/issues"
+	},
+	"keywords": [
+		"eslint"
+	],
+	"homepage": "https://github.com/moander/node-eslint-config-myrules#readme"
+}
