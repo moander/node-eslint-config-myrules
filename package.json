@@ -6,7 +6,6 @@
 	"engines": {
 		"node": ">=4.1.0"
 	},
-	"engineStrict": true,
 	"eslintConfig": {
 		"root": true,
 		"extends": "eslint:recommended",
